@@ -9,6 +9,4 @@
 - 支持图床、视频外链
 - 主题定制
 
-[Github](https://github.com/g-mero/panindex)
-
-[Get Started](#docsify)
+[Github](https://github.com/g-mero/panindex) [Get Started](#panindex)
