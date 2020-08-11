@@ -1,0 +1,16 @@
+{
+"dealtypecho":
+	{
+		"LatestVerison":"1.0.1_Beta",
+		"Url":"https://gmero.com/cpp/187.html",
+		"UpdateTime":"2020-08-12",
+      	"ReleaseNote":"\n1.修改了检测更新的地址\n2.优化代码"
+	},
+"panindex":
+	{
+		"LatestVerison":"1.0.0_Alpha",
+		"Url":"https://gmero.com/php/201.html",
+		"UpdateTime":"2020-08-12",
+       	"ReleaseNote":"1.0.0_Alpha发布"
+	}
+}
